@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Senthil-Kaliathan
 - 👀 I’m interested in Space exploration
-- 🌱 I’m currently learning Swift UI
-- 💞️ I’m looking to collaborate on mobile apps dev
+- 💞️ I’m looking to collaborate with mobile apps dev
 - 📫 How to reach me ... senthilkumar.kaliathan@priceline.com
 
 <!---
